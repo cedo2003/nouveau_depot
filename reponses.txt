@@ -1,0 +1,9 @@
+a) la commande git fetch, met à jour toutes les références distantes sur votre dépôt local sans modifier vos références locales.
+ Alors que la commande git pull fait la même chose que la commande git fetch, mais en plus, elle vas merge votre branche courante
+ avec sa référence distante.
+
+b)On peit utiliser git revert ou git reset pour annuler les modifications.
+
+c) On utilise la commande git push 
+
+d) On utilise la commande git log
